@@ -1,9 +1,9 @@
 # This is the configuration file for Ghostty.
-theme = "Atom One Dark"
+theme = "Catppuccin Mocha"
 cursor-style = "block"
 cursor-style-blink = true
 shell-integration-features = "no-cursor"
-font-size = 16
+font-size = 14
 font-family = JetBrainsMonoNerdFont
 maximize = true
-#background-opacity = 0.9
+background-opacity = 0.95
