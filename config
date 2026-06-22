@@ -1,9 +1,10 @@
 # This is the configuration file for Ghostty.
-theme = "Catppuccin Mocha"
+#theme = "Nord"
 cursor-style = "block"
 cursor-style-blink = true
 shell-integration-features = "no-cursor"
 font-size = 14
 font-family = JetBrainsMonoNerdFont
-maximize = true
-background-opacity = 0.95
+window-save-state = always
+#maximize = true
+#background-opacity = 0.99
